@@ -119,9 +119,9 @@
     localStorage.setItem('darkTheme', media);
   }
 
-  checkbox.addEventListener('change', function () {
-    darkTheme(this.checked ? 'screen' : 'none');
-  });
+ // checkbox.addEventListener('change', function () {
+   // darkTheme(this.checked ? 'screen' : 'none');
+  //});
 
   window.addEventListener('DOMContentLoaded', function () {
     if ('filter' in document.body.style) {
