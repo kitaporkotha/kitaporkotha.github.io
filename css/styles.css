@@ -316,7 +316,7 @@ caption {
     overflow-x: hidden;
 }
 .intro-and-nav {
-    font-size: 0.8rem;
+    font-size: 1.2rem;
     width: 15rem;
     height: 100vh;
     position: fixed;
@@ -1035,7 +1035,10 @@ h1 svg {
   color: #fefefe;
 }
 
-.pagination { text-align: center; }
+.pagination { text-align: center;
+padding-top :4px;
+padding-left :25%
+ }
 .pagination li, .terms li { display: inline; }
 .pagination a { padding: 0 .2em; }
 
@@ -1059,7 +1062,10 @@ h1 svg {
   border: 1px solid #4CAF50;
 }
 
-.pagination a:hover:not(.active) {background-color: #ddd;}
+.pagination a:hover:not(.active) {
+background-color: #ddd;
+
+}
 
 #myUL {
   list-style-type: none;
@@ -1071,7 +1077,7 @@ h1 svg {
   border: 1px solid #D7AC81;
   margin-top: -1px; /* Prevent double borders */
   background-color: #f6f6f6;
-  padding: 4px;
+  padding: 2px;
   text-decoration: none;
   font-size: 14px;
   color: black;
