@@ -104,6 +104,21 @@
   </url>
   
   <url>
+    <loc>https://kitaporkotha.github.io/descriptionadd/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kitaporkotha.github.io/listadd/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kitaporkotha.github.io/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kitaporkotha.github.io/add/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
@@ -151,11 +166,6 @@
   <url>
     <loc>https://kitaporkotha.github.io/tags/migration/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kitaporkotha.github.io/about/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
