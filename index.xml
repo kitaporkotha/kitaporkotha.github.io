@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My blog</title>
+    <title>কিতাপ.com</title>
     <link>https://kitaporkotha.github.io/</link>
-    <description>Recent content on My blog</description>
+    <description>Recent content on কিতাপ.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
@@ -89,7 +89,7 @@ We&#39;ll start with creating a new site with a very basic template.</descriptio
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://kitaporkotha.github.io/about/</guid>
-      <description></description>
+      <description>&#34;আপুনি হয়তো বহু সময়ত কিতাপ এখনৰ বিষয়ে অকন জানিব বিচাৰিছে , কোনোজন লেখকৰ কিতাপসমূহৰ নাম জানিব বিচাৰিছে ,নতুবা কেতিয়াবা আপুনি পঢ়িবলৈ কিতাপ এখন বিচাৰি হাবাথুৰি খাইছে !!! প্ৰত্যক পঢ়ুৱৈ এই সমস্যা বিলাকৰ কেতিয়াবা নহয় কেতিয়াবা সম্মুখীন হয় | ইংৰাজীত লিখা পুথিৰ ক্ষেত্ৰত, এই সমস্যা দুৰ কৰিবৰ কাৰণে বহু ৱেবচাইত আছে , অসমীয়া/অসম বিষয়ক কিতাপৰ ক্ষেত্ৰত এই সমস্যাসমূহ কিছু লাঘৱ কৰাই এই ৱেবচাইতৰ উদ্দেশ্য | কিতাপ.com হৈছে, অসমীয়া/অসম বিষয়ক কিতাপৰ পাঠকৰ কাৰণে এক প্লেটফৰ্ম ,যাৰ জৰিয়তে আপোনালোকে নিজৰ আৰু আনৰ জ্ঞান আহৰণত সহায় কৰিব | আমাৰ এই যাত্ৰাৰ সংগী হওক • তালিকাত নথকা কিতাপৰ নাম অন্তৰ্ভুক্ত কৰক • আপুনি পঢ়া কিতাপৰ বিষয়ে চমুকে লিখক &#34;</description>
     </item>
     
     <item>
@@ -143,7 +143,7 @@ We&#39;ll start with creating a new site with a very basic template.</descriptio
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://kitaporkotha.github.io/listadd/</guid>
-      <description> </description>
+      <description>var submitted=false;আপোনাৰ নাম ? আপোনাৰ ই-মেইল ?কিতাপৰ সমুহৰ নাম আৰু অন্যান্য তথ্যform{margin: 3% 10% 10% 10%;}textArea{height:300px;}input[type=text], select,textarea {width: 100%;padding: 12px 20px;margin: 8px 0;display: inline-block;border: 1px solid #1BC70D;border-radius: 4px;box-sizing: border-box;}input[type=submit] {width: 20%;background-color: #4CAF50;color: white;padding: 14px 20px;margin: 8px 0;border: none;border-radius: 4px;cursor: pointer;}input[type=submit]:hover {background-color: #45a049;}</description>
     </item>
     
     <item>
