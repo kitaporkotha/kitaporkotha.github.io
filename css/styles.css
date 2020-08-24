@@ -318,6 +318,8 @@ caption {
 }
 .intro-and-nav {
     font-size: 1.2rem;
+    background-color: bisque;
+    padding-top:5px;
     width: 15rem;
     height: 100vh;
     position: fixed;
@@ -330,9 +332,11 @@ caption {
     display: flex;
     flex-direction: column;
     height: 100%;
+    background-color: bisque
 }
 .intro {
   flex: 0 0 auto;
+  background-color: bisque
 }
 .patterns {
   flex: 1 1 auto;
@@ -343,7 +347,7 @@ caption {
 .logo img {
     width: 100%;
     max-width: 16rem;
-}
+   }
 .library-desc {
     margin-top: 0.5rem;
     margin-left: auto;
@@ -365,10 +369,10 @@ background-color:  #f2eecb;
     text-align: center;
 }
 
-/* Patterns navigation */
+/* Patterns navigation  margin-top: 1.5rem; */
 .patterns {
     overflow: auto;
-    margin-top: 1.5rem;
+    background-color: bisque;
 }
 .patterns * {
     margin-top: 0;
@@ -904,6 +908,7 @@ h1 svg {
     }
     .intro {
         text-align: center;
+	
     }
     .intro-and-nav {
         border-right: none;
